@@ -4,7 +4,7 @@
 lock '~> 3.16.0'
 
 set :application, 'superbee'
-set :repo_url, 'git@github.com:AndrewKrasnoff/theblog.git'
+set :repo_url, 'git@github.com:AndrewKrasnoff/superbee.git'
 set :branch, 'main'
 set :keep_releases, 2
 
